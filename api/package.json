@@ -1,9 +1,0 @@
-{
-  "name": "your-package-name",
-  "version": "1.0.0",
-  "description": "Your project description",
-  "main": "src/index.js",
-  "scripts": {},
-  "author": "Your Name",
-  "license": "ISC"
-}
